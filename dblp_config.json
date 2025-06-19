@@ -2,7 +2,8 @@
     "queries": [
         "python data science",
         "cybersecurity machine learning",
-        "neural networks interpretability"
+        "neural networks interpretability",
+        "python deep learning"
     ],
-    "max_results_per_query": 5
+    "max_results_per_query": 7
 }
