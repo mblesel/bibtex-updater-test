@@ -1,8 +1,8 @@
 {
     "queries": [
-        "python ciberseguridad",
-        "python otros",
-        "numerical nuevos"
+        "python data science",
+        "cybersecurity machine learning",
+        "neural networks interpretability"
     ],
     "max_results_per_query": 3
 }
