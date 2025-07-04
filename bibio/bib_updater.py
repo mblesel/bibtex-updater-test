@@ -2,6 +2,7 @@
 import logging
 import requests
 import bibtexparser
+from typing import Optional
 
 # Configuring logging
 logging.basicConfig(
@@ -11,7 +12,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-from typing import Optional
+
 
 def fetch_dblp_entry(url: str) -> Optional[str]:
 
