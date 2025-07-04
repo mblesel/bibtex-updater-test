@@ -11,10 +11,10 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-
 from typing import Optional
 
 def fetch_dblp_entry(url: str) -> Optional[str]:
+
 
     """Fetch a DBLP BibTeX entry and log problems if any occur."""
     bib_url = url.rstrip('/') + '/bibtex'
