@@ -28,3 +28,4 @@ jobs:
       - name: Run BibTeX updater
         run: |
           python main.py
+
