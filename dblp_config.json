@@ -1,9 +1,19 @@
 {
-    "queries": [
-        "python data science",
-        "cybersecurity machine learning",
-        "neural networks interpretability",
-        "python deep learning"
-    ],
-    "max_results_per_query": 7
+"queries": [
+"python numpy",
+"python selenium",
+"python matplotlib",
+"numerical methods",
+"newton"
+],
+"authors": [
+"Fatima Zahra Beni Azza",
+"Jane Doe",
+"John Smith"
+],
+"max_results_per_query": 8,
+"max_results_per_author": 10,
+"year_min": 2019,
+"year_max": 2025
 }
+
